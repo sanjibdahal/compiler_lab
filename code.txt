@@ -1,0 +1,7 @@
+int main() {
+    float num_a = 10, num_b = 20.5;
+    if (num_a < num_b & num_a!=num_b) {
+        num_a = num_a - num_b;
+    }
+    return 0;
+}
